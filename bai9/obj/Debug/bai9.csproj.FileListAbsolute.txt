@@ -1,0 +1,7 @@
+E:\laptrinh .net\chuong3\bai9\bin\Debug\bai9.exe.config
+E:\laptrinh .net\chuong3\bai9\bin\Debug\bai9.exe
+E:\laptrinh .net\chuong3\bai9\bin\Debug\bai9.pdb
+E:\laptrinh .net\chuong3\bai9\obj\Debug\bai9.csproj.AssemblyReference.cache
+E:\laptrinh .net\chuong3\bai9\obj\Debug\bai9.csproj.CoreCompileInputs.cache
+E:\laptrinh .net\chuong3\bai9\obj\Debug\bai9.exe
+E:\laptrinh .net\chuong3\bai9\obj\Debug\bai9.pdb

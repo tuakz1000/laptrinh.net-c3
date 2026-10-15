@@ -1,0 +1,8 @@
+E:\laptrinh .net\chuong3\bai5\bin\Debug\bai5.exe.config
+E:\laptrinh .net\chuong3\bai5\bin\Debug\bai5.exe
+E:\laptrinh .net\chuong3\bai5\bin\Debug\bai5.pdb
+E:\laptrinh .net\chuong3\bai5\obj\Debug\bai5.csproj.AssemblyReference.cache
+E:\laptrinh .net\chuong3\bai5\obj\Debug\bai5.csproj.CoreCompileInputs.cache
+E:\laptrinh .net\chuong3\bai5\obj\Debug\bai5.exe
+E:\laptrinh .net\chuong3\bai5\obj\Debug\bai5.pdb
+E:\laptrinh .net\chuong3\bai5\obj\Debug\bai5.exe.config

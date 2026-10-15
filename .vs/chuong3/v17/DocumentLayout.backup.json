@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\laptrinh .net\\chuong3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA86466-F157-4873-8243-8F41912D6191}|bai10\\bai10.csproj|e:\\laptrinh .net\\chuong3\\bai10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA86466-F157-4873-8243-8F41912D6191}|bai10\\bai10.csproj|solutionrelative:bai10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F599D3B1-772E-40C6-BBDF-D1CBFE4BA46E}|bai9\\bai9.csproj|e:\\laptrinh .net\\chuong3\\bai9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F599D3B1-772E-40C6-BBDF-D1CBFE4BA46E}|bai9\\bai9.csproj|solutionrelative:bai9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\laptrinh .net\\chuong3\\bai10\\Program.cs",
+              "RelativeDocumentMoniker": "bai10\\Program.cs",
+              "ToolTip": "E:\\laptrinh .net\\chuong3\\bai10\\Program.cs",
+              "RelativeToolTip": "bai10\\Program.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAswK4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T07:27:12.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\laptrinh .net\\chuong3\\bai9\\Program.cs",
+              "RelativeDocumentMoniker": "bai9\\Program.cs",
+              "ToolTip": "E:\\laptrinh .net\\chuong3\\bai9\\Program.cs",
+              "RelativeToolTip": "bai9\\Program.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAmwM0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T07:24:45.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
